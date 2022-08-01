@@ -7,6 +7,9 @@ Install and Run:
   2) Have sufficient RAM as the associated dataset can use > 32 GB of RAM
   3) Open within Jupyter Notebook and run from the top to bottom.
 
+Raw data:
+	Can be downloaded from here: https://www.kaggle.com/datasets/raddar/amex-data-integer-dtypes-parquet-format
+
 To Run the whole program
 	- just run it and it should work
 
