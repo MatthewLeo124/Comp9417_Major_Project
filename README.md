@@ -7,6 +7,9 @@ Install and Run:
   2) Have sufficient RAM as the associated dataset can use > 32 GB of RAM
   3) Open within Jupyter Notebook and run from the top to bottom.
 
+To Run the whole program
+	- just run it and it should work
 
-
-		
+To run test set against a model:
+	You need to run the first 9 boxes first
+	Then you can start at the box after the message down the bottom where there is a data frame clean up after the message.
